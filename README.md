@@ -1,4 +1,4 @@
-# 📊 E-commerce Behavior Analysis with BigQuery
+# E-commerce Behavior Analysis with BigQuery
 
 
 All 8 queries below have been executed and validated directly in Google BigQuery. You can view the live project (queries, execution, and saved results) here:
